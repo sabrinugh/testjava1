@@ -1,5 +1,4 @@
 # testjava1
 java git testing
 
-help me
-snooze
+First commit for master
