@@ -1,5 +1,4 @@
 # testjava1
 java git testing
 
-help me
-groovy lol
+This is to practice merging, committing and pushing.
